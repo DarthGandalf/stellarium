@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
-"POT-Creation-Date: 2018-10-15 20:25+0700\n"
+"POT-Creation-Date: 2018-10-27 13:49+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: ParkSangJun <psj8252@naver.com>, 2018\n"
 "Language-Team: Korean (https://www.transifex.com/stellarium/teams/80998/ko/)\n"
@@ -6213,7 +6213,7 @@ msgstr "공기펌프자리 은하단"
 
 #: nebulae/default/names.dat:1101
 msgid "Cosmic Six Nebula"
-msgstr ""
+msgstr "우주 6 성운"
 
 #: nebulae/default/names.dat:1102
 msgid "E3 Cluster"
